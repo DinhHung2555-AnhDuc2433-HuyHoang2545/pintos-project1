@@ -88,7 +88,7 @@ So we can put threads in timer_sleep() on block status, when the sleep time pass
 
 # Pintos - System call
 
-Modified file userprog/syscall.c & s
+Modified file userprog/syscall.c & syscall.h
 
 1. System Call: void halt (void)
 

@@ -86,7 +86,7 @@ So we can put threads in timer_sleep() on block status, when the sleep time pass
 
 
 
-# Pintos - S
+# Pintos - System call
 
 Modified file userprog/syscall.c & s
 

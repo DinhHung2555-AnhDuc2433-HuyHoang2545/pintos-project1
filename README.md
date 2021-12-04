@@ -40,11 +40,11 @@ where foo is the name of the test.
 These are also run when you execute make check. You may need to make clean on occasion. 
 
 ## Modified Files:
-1) timer.c
+1) timer.c   
 
 modified timer_sleep()
 
-2) thread.c
+2) thread.c   
 
 add thread_sleep()
 

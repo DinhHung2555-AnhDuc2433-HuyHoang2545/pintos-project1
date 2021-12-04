@@ -61,3 +61,16 @@ CODE HERE
 12. System Call: unsigned tell (int fd)
 
 13. System Call: void close (int fd)
+
+
+### Nhiệm vụ
+## Alarm clock
+- Sửa file timer.c
++ Hàm timer_sleep() =========> Nhiệm vụ của ...
+- Sửa file thread.c & thread.h
++ Hàm thread_sleep() ========> Nhiệm vụ của ...
++ Hàm thread_wake() =========> Nhiệm vụ của ...
+## System call
+# Tự mỗi thành viên chọn 4 hoặc 5 h
+
+ 

@@ -71,6 +71,6 @@ CODE HERE
 + Hàm thread_sleep() ========> Nhiệm vụ của ...
 + Hàm thread_wake() =========> Nhiệm vụ của ...
 ## System call
-# Tự mỗi thành viên chọn 4 hoặc 5 h
+# Tự mỗi thành viên chọn 4 hoặc 5 hàm
 
  

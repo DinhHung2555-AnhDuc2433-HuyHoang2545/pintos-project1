@@ -10,25 +10,15 @@ modified timer_sleep()
 
 2) thread.c   
 
-add thread_sleep()
-
-add thread_wake()
-
-
 3) thread.h
-
-add void thread_sleep (int64_t);
-
-add void thread_wake (void);
-
 
 ## Code has been add like:
 
-/* my code begins */
+/* that code my here begin */
 
 CODE HERE
 
-/* my code ends */
+/* that code my here end */
 
 
 
@@ -63,14 +53,5 @@ CODE HERE
 13. System Call: void close (int fd)
 
 
-# Nhiệm vụ
-## Alarm clock
-- Sửa file timer.c
-+ Hàm timer_sleep() =========> Nhiệm vụ của ...
-- Sửa file thread.c & thread.h
-+ Hàm thread_sleep() ========> Nhiệm vụ của ...
-+ Hàm thread_wake() =========> Nhiệm vụ của ...
-## System call
-Tự mỗi thành viên chọn 4 hoặc 5 hàm
 
  

@@ -1,7 +1,7 @@
-Project 1: Threads => Alarm clock
-Project 2: User program => System calls
+# Project 1: Alarm clock
 
-#Running pintos:
+
+## Running pintos:
 
 $>need pintos (optional)
 
@@ -36,7 +36,7 @@ CODE HERE
 
 
 
-# Pintos - System call
+# Pintos 2: System call
 
 ## Modified file userprog/syscall.c & syscall.h
 
